@@ -1,0 +1,18 @@
+img {
+    width: 200px;
+}
+
+h1 {
+    text-align: center;
+}
+body{background-color:turquoise;}
+h1{color:pink;}
+h2{color:blue;}
+
+img {
+    border: dotted;
+    padding: 25px;
+    width: 400px;
+    display: flex;
+    justify-content: center;
+}
